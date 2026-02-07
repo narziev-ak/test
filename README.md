@@ -1,5 +1,5 @@
-*Hello, world!
+# Hello, world!
 
 I study Netology
 
-02.02.2026
+08.02.2026
